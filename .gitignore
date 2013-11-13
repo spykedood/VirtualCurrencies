@@ -221,7 +221,6 @@ pip-log.txt
 ##########
 
 ##### File globs to match ####
-syntax: glob
 # Data folders/files
 */ExamineIndexes/*
 www/App_Data/umbraco.config
